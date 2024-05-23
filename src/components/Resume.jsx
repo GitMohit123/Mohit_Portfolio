@@ -11,7 +11,7 @@ const Resume = () => {
             type="submit"
             className="bg-tertiary py-3 px-8 mx-20 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
         >
-        <a href="https://drive.google.com/file/d/1R3IpvQ9lpESwAR9OU2aOZilTufpURAsQ/view?usp=sharing" title="Download CV" download>Download CV</a>
+        <a href="https://drive.google.com/file/d/1DAg3uOYmypIKwJIwwhs2-7gnzx8pJD9P/view?usp=sharing" title="Download CV" download>Download CV</a>
         </button>
         </div>
     </div>
