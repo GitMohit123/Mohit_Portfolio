@@ -22,7 +22,7 @@ const App = () =>{
           <StarsCanvas/>
         </div>
       </div>
-      <Footer/>
+     <Footer/>
     </BrowserRouter>
   )
 }

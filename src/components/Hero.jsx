@@ -37,14 +37,14 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915EFF]">Mohit </span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            A FreeLancer, I develope
+            A FreeLancer, I develop
             <br className="sm:block hidden" />
             interfaces and web applications
           </p>
         </div>
 
         <div className="flex flex-col justify-end sm:mx-24 sm:mt-5 hidden sm:block">
-          <img className="sm:h-96 sm:rounded-full" src={meta} alt="" />
+          <img className="sm:h-96 sm:rounded-full border-4 border-[#915EFF]" src={meta} alt="" />
         </div>
       </div>
       <div className="flex sm:justify-start justify-around items-center max-w-7xl mx-auto sm:mx-40 mt-72 sm:mt-96">

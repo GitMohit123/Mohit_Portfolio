@@ -37,7 +37,7 @@ const Footer = () => {
         className="text-center p-3"
         style={{backgroundColor: "rgba(0, 0, 0, 0.05)"}}
       >
-        © 2020 Copyright : Developed by MOHIT
+        © 2024 Copyright : Developed by MOHIT
       </div>
     </footer>
   );

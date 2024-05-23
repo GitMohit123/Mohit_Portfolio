@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import icon from "./Icon.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -33,7 +34,8 @@ import java from "./tech/java.png";
 import iimun from "./tech/iimun.png";
 import scholist from "./company/scholist.png";
 import Microsoft from "./Microsoft.png";
-import Chat from "./Chat.png"
+import Chat from "./Chat.png";
+import Icon from "./Icon.png"
 
 export {
   logo,
@@ -67,5 +69,7 @@ export {
   java,
   iimun,scholist,
   Microsoft,
-  Chat
+  Chat,
+  Icon,
+  icon
 };
